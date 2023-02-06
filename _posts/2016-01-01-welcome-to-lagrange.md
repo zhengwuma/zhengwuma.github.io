@@ -9,7 +9,7 @@ image: mountains.jpg
 
 Hello! This is Zhengwu Ma.
 
-I am a master student at City University of Hong Kong, supervised by Dr. Jixing Li. 
+I am a MA student at City University of Hong Kong, supervised by Dr. Jixing Li. 
 
 
 ## Research Interest
