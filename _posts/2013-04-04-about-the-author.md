@@ -1,10 +1,30 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "About Me"
+author: "Zhengwu Ma"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Zhengwu.
+
+Thanks for visiting.
+
+I was born in Pingliang, Gansu, Northwestern China. It is slightly different from the primary cities in China due to the blend of Taoism, Islam, and Buddism. And I always believe this silk-road small town is the most beautiful place in the world. 
+
+When I was six, I moved to Xi'an, Shaanxi, China. In this ancient capital for more than 13 dynasties, I finished my primary school, high school and even the undergraduate in the Jiaotong University. 
+
+Even though always stay in one place is "boring" sometime, Jiaotong is really the good place where feed me everything.
+
+I started to learn Linguistics when I was the sophomore exchange student in UW-Madison. I believe lots of the students have taken the course LINGUIS 101/303, and this is also the beginning of everything for me. 
+
+After the special leanring experience during COVID, I returned to XJTU to finish my B.A. under the supervision of Prof. Xiaopeng Zhang. 
+
+In his team, I operated the eye-tracking experiments, collecting the data, learned the statistical analysis... That is the place transformed me from the blank.
+
+In 2022, I entered City University of Hong Kong. Extremely lucky to meet my current supervisor Dr. Jixing Li. She led me to touch the computational-neurolinguistics. There is this kind of fascinating way to study language!
+
+Hope you guys enjoy the visiting!
+
+Zhengwu
