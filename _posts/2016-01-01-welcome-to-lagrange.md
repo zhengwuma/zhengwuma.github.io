@@ -13,15 +13,15 @@ I am a master student at City University of Hong Kong, supervised by Dr. Jixing 
 
 ## Education
 
-2022.8 - 2023.10  City University of Hong Kong
+City University of Hong Kong
 
 M.A. Language Studies, Corpus and Empirical Stream
 
-2018.8 - 2022.7  Xi'an Jiaotong University
+Xi'an Jiaotong University
 
 B.A. English, Linguistics Specialization
 
-2020.1 - 2020.5 University of Wisconsin-Madison
+University of Wisconsin-Madison
 
 Visiting International Student Program (Linguistics)
 
@@ -32,28 +32,3 @@ Now I am focusing on studying the language comprehension. By using quantitative 
 
 I am also interested in the speech language, such as how we perceive and comprehend the sounds signals. I did several works on the spoken language machine assessment during undergraduate phase. 
 
-
-
-## Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
-
-## More Jekyll!
-
-### Millennial
-
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
-
-### Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
