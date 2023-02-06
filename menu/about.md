@@ -10,13 +10,19 @@ Currently, I am the master student in Linguistics at [City University of Hong Ko
 
 Prior to that, I got my B.A. in English, Linguistics specialization from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
 
+
+
 ### Getting Started
 
 [Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
+
+
 ### Example Content
 
 [Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+
+
 
 ### Questions?
 
