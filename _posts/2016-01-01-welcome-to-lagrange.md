@@ -9,7 +9,14 @@ image: mountains.jpg
 
 Hello! This is Zhengwu Ma.
 
-I am a master student at City University of Hong Kong, supervised by Dr. Jixing Li. Now I am focusing on studying the language comprehension. By using quantitative approaches and computational models to understand how human brain process and compute the language information. This is also the topic of my master project. I am also interested in the speech language, such as how we perceive and comprehend the sounds signals. I did several works on the spoken language machine assessment during undergraduate phase. 
+I am a master student at City University of Hong Kong, supervised by Dr. Jixing Li. 
+
+
+## Research Interest
+
+Now I am focusing on studying the language comprehension. By using quantitative approaches and computational models to understand how human brain process and compute the language information. This is also the topic of my master project. 
+
+I am also interested in the speech language, such as how we perceive and comprehend the sounds signals. I did several works on the spoken language machine assessment during undergraduate phase. 
 
 
 ## Education
