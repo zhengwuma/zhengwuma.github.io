@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome!
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+This is Zhengwu Ma. Currently, I am the master student in Linguistics at City University of Hong Kong, supervised by Dr. Jixing Li. Prior to that, I got my B.A. in English, Linguistics specialization from Xi'an Jiaotong University, supervised by Prof. Xiaopeng Zhang.
 
 ### Getting Started
 
