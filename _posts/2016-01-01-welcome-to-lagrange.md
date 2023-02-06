@@ -1,17 +1,29 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Welcome to my website!"
+author: "Zhengwu Ma"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Hello! This is Zhengwu Ma.
 
-## Getting Started
+I am a master student at City University of Hong Kong, supervised by Dr. Jixing Li.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+## Education
+
+2022.8 - 2023.10  City University of Hong Kong
+
+M.A. Language Studies, Corpus and Empirical Stream
+
+2018.8 - 2022.7  Xi'an Jiaotong University
+
+B.A. English, Linguistics Specialization
+
+2020.1 - 2020.5 University of Wisconsin-Madison
+
+Visiting International Student Program (Linguistics)
 
 ## Example Content
 
