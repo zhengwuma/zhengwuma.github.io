@@ -40,7 +40,7 @@ Visiting International Student Program (Linguistics)
 
 Mandarin Chinese (native), English, Spanish, Italian
 
-Python, R, SPSS, HTML, MATLAB
+Python, R, SPSS, HTML, MATLAB, LaTeX
 
 Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES, TAALED...
 
