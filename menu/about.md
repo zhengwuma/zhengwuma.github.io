@@ -4,7 +4,7 @@ title: Welcome!
 permalink: /about
 ---
 
-This is Zhengwu Ma, she/her.&ensp;&ensp;马正午
+This is Zhengwu Ma, she/her.&ensp;马正午&ensp;[ʈʂɤŋˋ uˇ maˇ]
 
 Currently, I am the master student in Linguistics at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). I am also the member of the [LAMB Lab](https://compneurolinglab.github.io/).
 
@@ -38,7 +38,7 @@ Visiting International Student Program (Linguistics)
 
 ## Language
 
-Chinese(native), English, Spanish, Italian
+Mandarin Chinese (native), English, Spanish, Italian
 
 Python, R, SPSS, HTML, MATLAB
 
@@ -48,5 +48,6 @@ Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES, TAALED...
 
 If you are having any problems, any questions or suggestions, always feel free to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk).
 
-
+ <br>
+ <br>
 🥳 btw, my Chinese first name "Zhengwu" means "midday" in English, which is also my birth time. 
