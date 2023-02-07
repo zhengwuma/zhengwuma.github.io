@@ -36,10 +36,7 @@ Visiting International Student Program (Linguistics)
 
 ## Questions?
 
-If you are having any problems, any questions or suggestions, 
-
-feel free to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk), [tweet at me](https://twitter.com/zhengwuma), or [from GitHub](https://github.com/zhengwuma).
-
+If you are having any problems, any questions or suggestions, always feel free to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk).
 
 
 🥳 btw, my Chinese first name "Zhengwu" means "midday" in English, which is also my birth time. 
