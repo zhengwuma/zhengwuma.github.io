@@ -13,7 +13,7 @@ I am a MA student at City University of Hong Kong, supervised by Dr. Jixing Li. 
 
 This is the original version of my personal website. Welcome to purpose any idea to help me improve it. <br>
 
-You can check my basic information in "About" !
+You can check my basic information in ["About"](https://zhengwuma.github.io/about.html) !
 
 
 
