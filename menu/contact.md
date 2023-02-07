@@ -4,6 +4,12 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, 
 
-feel free to [tweet at me](https://twitter.com/zhengwuma), or [from GitHub issue](https://github.com/zhengwuma).
+
+Always feel free to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk),<br>
+
+[tweet at me](https://twitter.com/zhengwuma), <br>
+
+or [from GitHub issue](https://github.com/zhengwuma). <br>
+
+I am also a foodie and unknown optional ins poster.😂 You can also follow my [instagram](https://www.instagram.com/zhengwu_ma/) where I used to share my life.
