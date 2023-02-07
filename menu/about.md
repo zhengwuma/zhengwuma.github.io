@@ -17,8 +17,7 @@ Prior to that, I got my B.A. in English, Linguistics Specialization, from [Xi'an
 Now I am focusing on studying language comprehension using quantitative approaches and computational models to understand how the human brain processes and computes language information. It is also the topic of my master's project.  
 
 I am also interested in speech-language, such as how we perceive and comprehend sounds signals. I did several works on the spoken language machine assessment during the undergraduate phase.
- 
- <br>
+
 ## Education
 
 <b> City University of Hong Kong</b><br />
@@ -37,7 +36,6 @@ Thesis: <i> Testing the Relationship of Lexical Complexity to the Rated Quality 
 
 Visiting International Student Program (Linguistics)
 
- <br>
 ## Language
 
 Mandarin Chinese (native), English, Spanish, Italian
@@ -46,7 +44,6 @@ Python, R, SPSS, HTML, MATLAB
 
 Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES, TAALED...
 
- <br>
 ## Questions?
 
 If you are having any problems, any questions or suggestions, always feel free to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk).
