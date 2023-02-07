@@ -4,7 +4,7 @@ title: Welcome!
 permalink: /about
 ---
 
-This is Zhengwu Ma.<p>&ensp;&ensp;&ensp;</p>马正午<p>&ensp;&ensp;&ensp;</p>she/her 
+This is Zhengwu Ma.&ensp;&ensp;马正午&ensp;&ensp;she/her 
 
 Currently, I am the master student in Linguistics at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). <br>
 
