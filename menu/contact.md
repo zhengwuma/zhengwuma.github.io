@@ -16,4 +16,4 @@ Oops! <br>
 
 I think there is some problem to open the instagram link from Chrome. It works well in Safari. <br> 
 
-I am working on slove this problem, and also welcome to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk) to fix it. 🤗 
+I am working on slove this problem, and also welcome to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk) to help me fix it. 🤗 
