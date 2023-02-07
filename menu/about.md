@@ -6,17 +6,20 @@ permalink: /about
 
 This is Zhengwu Ma, she/her.&ensp;马正午&ensp;[ ʈʂɤŋˋ uˇ maˇ]
 
+<br>
 Currently, I am the master student in Linguistics at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). I am also the member of the [LAMB Lab](https://compneurolinglab.github.io/).
 
 Prior to that, I got my B.A. in English, Linguistics Specialization, from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
 
-
+<br>
 
 ## Research Interest
 
 Now I am focusing on studying language comprehension using quantitative approaches and computational models to understand how the human brain processes and computes language information. It is also the topic of my master's project.  
 
 I am also interested in speech-language, such as how we perceive and comprehend sounds signals. I did several works on the spoken language machine assessment during the undergraduate phase.
+
+<br>
 
 ## Education
 
@@ -36,6 +39,8 @@ Thesis: <i> Testing the Relationship of Lexical Complexity to the Rated Quality 
 
 Visiting International Student Program (Linguistics)
 
+<br>
+
 ## Language
 
 Mandarin Chinese (native), English, Spanish, Italian
@@ -43,6 +48,8 @@ Mandarin Chinese (native), English, Spanish, Italian
 Python, R, SPSS, HTML, MATLAB, LaTeX
 
 Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES, TAALED...
+
+<br>
 
 ## Questions?
 
