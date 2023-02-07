@@ -15,7 +15,7 @@ I was born in [Pingliang](https://www.trip.com/travel-guide/destination/pinglian
 
 When I was six, I moved to [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), Shaanxi, China with my parents. In this ancient capital of China for more than 13 dynasties, I finished my primary school, high school and even the undergraduate in the Jiaotong University. 
 
-Even though always stay in one place is "boring" sometime, Jiaotong is really the good place where feed me everything.
+Even though always stay in one place is "boring" sometime, Jiaotong is really the good place where feed me everything. And I am proud of being the alumna of [The High School Affiliated to Xi'an Jiaotong University](http://www.xajdfz.com.cn/).
 
 I started to learn Linguistics when I was the sophomore exchange student in UW-Madison. I believe lots of the students have taken the course LINGUIS 101/303, and this is also the beginning of everything for me. 
 
