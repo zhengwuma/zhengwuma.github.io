@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Me"
+title: "Something about my leanring journey"
 author: "Zhengwu Ma"
 categories: journal
 tags: [documentation,sample]
