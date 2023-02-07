@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Zhengwu.
+Hi there! 
 
 Thanks for visiting.
 
@@ -17,13 +17,13 @@ When I was six, I moved to [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), Shaan
 
 Even though always stay in one place is "boring" sometime, Jiaotong is really the good place where feed me everything. And I am proud of being the alumna of [The High School Affiliated to Xi'an Jiaotong University](http://www.xajdfz.com.cn/).
 
-I started to learn Linguistics when I was the sophomore exchange student in UW-Madison. I believe lots of the students have taken the course LINGUIS 101/303, and this is also the beginning of everything for me. 
+I started to learn Linguistics when I was the sophomore exchange student in [University of Wisconsin-Madison](https://www.wisc.edu/). I believe lots of the students have taken the course LINGUIS 101/303, and this is also the beginning of everything for me. 
 
-After the special leanring experience during COVID, I returned to XJTU to finish my B.A. under the supervision of Prof. Xiaopeng Zhang. 
+After the special leanring experience during COVID, I returned to XJTU to finish my B.A. under the supervision of [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). 
 
 In his team, I operated the eye-tracking experiments, collecting the data, learned the statistical analysis... That is the place transformed me from the blank.
 
-In 2022, I entered City University of Hong Kong. Extremely lucky to meet my current supervisor Dr. Jixing Li. She led me to touch the computational-neurolinguistics. There is this kind of fascinating way to study language!
+In 2022, I entered City University of Hong Kong. Extremely lucky to meet my current supervisor [Dr. Jixing Li](https://jixing-li.github.io/)). She led me to touch the computational-neurolinguistics. There is this kind of fascinating way to study language!
 
 Hope you guys enjoy the visiting!
 
