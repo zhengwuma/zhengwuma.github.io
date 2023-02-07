@@ -11,3 +11,5 @@ Always feel free to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk), [tweet at m
 I am also a foodie and unknown optional ins poster.😂 <br>
 
 You can also follow my [instagram](https://www.instagram.com/zhengwu_ma/) where I used to share my life.
+
+Oops! I think there is some problem to open the instagram link from Chrome. It works well in Safari. I am working on slove this problem, and also welcome to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk) to fix it. 🤗 
