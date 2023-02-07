@@ -25,7 +25,7 @@ I am also interested in the speech language, such as how we perceive and compreh
 
 M.A. Language Studies, Corpus and Empirical Stream <br>
 
-Master Project: <i> Reading Comprehension Revealed by Behavioral, Neural, and Computational Models (ongoing)</i>
+Master Project: <i> Reading Comprehension Revealed by Behavioral, Neural, and Computational Models </i> (ongoing)
 
 <b> Xi'an Jiaotong University</b><br />
 
