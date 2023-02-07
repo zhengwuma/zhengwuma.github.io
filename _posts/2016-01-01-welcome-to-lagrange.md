@@ -4,7 +4,7 @@ title: "Welcome to my website!"
 author: "Zhengwu Ma"
 categories: journal
 tags: [documentation,sample]
-image: welcome.jpg
+image: mountains.jpg
 ---
 
 Hello! This is Zhengwu Ma.
