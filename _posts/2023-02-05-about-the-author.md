@@ -11,9 +11,9 @@ Hi there! I'm Zhengwu.
 
 Thanks for visiting.
 
-I was born in Pingliang, Gansu, Northwestern China. It is slightly different from the primary cities in China due to the blend of Taoism, Islam, and Buddism. And I always believe this silk-road small town is the most beautiful place in the world. 
+I was born in [Pingliang](https://www.trip.com/travel-guide/destination/pingliang-424/), Gansu, Northwestern China. It is slightly different from the primary cities in China due to the blend of Taoism, Islam, and Buddism. And I always believe this silk-road small town is the most beautiful place in the world. 
 
-When I was six, I moved to Xi'an, Shaanxi, China. In this ancient capital for more than 13 dynasties, I finished my primary school, high school and even the undergraduate in the Jiaotong University. 
+When I was six, I moved to [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), Shaanxi, China. In this ancient capital for more than 13 dynasties, I finished my primary school, high school and even the undergraduate in the Jiaotong University. 
 
 Even though always stay in one place is "boring" sometime, Jiaotong is really the good place where feed me everything.
 
