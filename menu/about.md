@@ -23,11 +23,15 @@ I am also interested in the speech language, such as how we perceive and compreh
 
 <b> City University of Hong Kong</b><br />
 
-M.A. Language Studies, Corpus and Empirical Stream
+M.A. Language Studies, Corpus and Empirical Stream <br>
+
+Master Project: <i> Reading Comprehension Revealed by Behavioral, Neural, and Computational Models (ongoing)</i>
 
 <b> Xi'an Jiaotong University</b><br />
 
-B.A. English, Linguistics Specialization
+B.A. English, Linguistics Specialization <br>
+
+Thesis: <i> Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives </i>
 
 <b> University of Wisconsin-Madison</b><br />
 
