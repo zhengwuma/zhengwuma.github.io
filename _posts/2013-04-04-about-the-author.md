@@ -4,7 +4,7 @@ title: "About Me"
 author: "Zhengwu Ma"
 categories: journal
 tags: [documentation,sample]
-image: me.jpg
+image: cutting.jpg
 ---
 
 Hi there! I'm Zhengwu.
