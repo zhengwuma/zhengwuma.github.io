@@ -42,7 +42,7 @@ Chinese(native), English, Spanish, Italian
 
 Python, R, SPSS, HTML, MATLAB
 
-Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES. TAALED...
+Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES, TAALED...
 
 ## Questions?
 
