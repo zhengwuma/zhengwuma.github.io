@@ -48,12 +48,6 @@ Python, R, SPSS, HTML, MATLAB, LaTeX
 
 Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
-<br>
-
-## Questions?
-
-If you are having any problems, any questions or suggestions, always feel free to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk).
-
  <br>
  
 ## Fun fact about me 🥳
