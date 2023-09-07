@@ -4,7 +4,7 @@ title: Welcome!
 permalink: /about
 ---
 
-This is Zhengwu Ma, she/her.&ensp;马正午&ensp;[ ʈʂɤŋˋ uˇ maˇ]
+This is Zhengwu Ma, she/her.&ensp;马正午&ensp;[ʈʂɤŋ ǔ mǎ]
 
 Currently, I am the master student in Linguistics at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). I am also the member of the [LAMB Lab](https://compneurolinglab.github.io/).
 
@@ -26,7 +26,7 @@ I am also interested in speech-language, such as how we perceive and comprehend 
 
 M.A. Language Studies, Corpus and Empirical Stream <br>
 
-Master Project: <i> Reading Comprehension Revealed by Behavioral, Neural, and Computational Models </i> (ongoing)
+Thesis: <i> Reading Comprehension Revealed by Behavioral, Neural, and Computational Models </i> 
 
 <b> Xi'an Jiaotong University</b><br />
 
@@ -56,4 +56,7 @@ If you are having any problems, any questions or suggestions, always feel free t
 
  <br>
  <br>
-🥳 btw, my Chinese first name "Zhengwu" means "midday" in English, which is also my birth time. 
+ 
+## Fun fact
+
+My Chinese first name "Zhengwu" means "midday" in English, which is also my birth time. 🥳 
