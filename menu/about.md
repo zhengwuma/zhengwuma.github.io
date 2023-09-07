@@ -55,8 +55,7 @@ Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES, TAALED, Lexical Complex
 If you are having any problems, any questions or suggestions, always feel free to [email me](mailto:zhengwuma2-c@my.cityu.edu.hk).
 
  <br>
- <br>
  
-## Fun fact
+## Fun fact about me 🥳
 
-My Chinese first name "Zhengwu" means "midday" in English, which is also my birth time. 🥳 
+My Chinese first name "Zhengwu" means "midday" in English, which is also my birth time.  
