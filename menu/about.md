@@ -24,7 +24,7 @@ I am also interested in speech-language, such as how we perceive and comprehend 
 
 <b> City University of Hong Kong</b><br />
 
-M.A. Language Studies, Corpus and Empirical Stream <br>
+M.A. Language Studies, Corpus & Empirical Linguistics <br>
 
 Thesis: <i> Reading Comprehension Revealed by Behavioral, Neural, and Computational Models </i> 
 
