@@ -46,7 +46,7 @@ Mandarin Chinese (native), English, Spanish, Italian
 
 Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting
 
-Linguistics Tools: NLTK, Prrat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
+Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
  <br>
  
