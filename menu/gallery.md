@@ -4,5 +4,6 @@ title: Gallery
 permalink: /gallery
 ---
 
-I also believe travelling and city exploring is most adventurous thing in the limited life. This is some exciting moment for myself.
+I'm always convinced that traveling is the most adventurous experience one can have in our limited lifetime. These moments are truly exhilarating for me.
 
+Here are some pieces from my life journey.
