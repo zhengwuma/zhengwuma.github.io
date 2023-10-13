@@ -10,13 +10,17 @@ layout: default
   {{ content }}
 </article>
 
-<img src="{{ site.github.url }}/assets/img/mask.jpg">
-<p class="caption"> in Xi'an </p>
-		
-<img src="{{ site.github.url }}/assets/img/lanzhou.jpg">
-<p class="caption"> Lanzhou </p>
-		
-<img src="{{ site.github.url }}/assets/img/mosque.jpg">
-<p class="caption"> Mosque in my hometown </p>
-
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="text-align: center;">
+    <img src="{{ site.github.url }}/assets/img/bridge.jpg" style="max-width: 100%;">
+    <p class="caption"> Zhongshan Bridge in Lanzhou </p>
+  </div>
+  <div style="text-align: center;">
+    <img src="{{ site.github.url }}/assets/img/lanzhou.jpg" style="max-width: 100%;">
+    <p class="caption"> Lanzhou </p>
+  </div>
+  <div style="text-align: center;">
+    <img src="{{ site.github.url }}/assets/img/mosque.jpg" style="max-width: 100%;">
+    <p class="caption"> Mosque in Lanzhou</p>
+  </div>
+</div>
