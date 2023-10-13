@@ -6,36 +6,25 @@ layout: default
   {{ page.title }}
 </h1>
 
-<div class="row-fluid">
-	<ul class="thumbnails da-thumbs">
-		<li class="span4">
-			<a title="self" class="thumbnail" >
-			<img src="{{ site.github.url }}/assets/img/mask.jpg" style="width: 300px; height: 225px;">
-			</a>
-			<p class="caption"> in Xi'an </p>
-		</li>
-		
-		<li class="span4">
-			<a title="arch" class="thumbnail" >
-			<img src="{{ site.github.url }}/assets/img/lanzhou.jpg" style="width: 300px; height: 225px;">
-			</a>
-			<p class="caption"> Lanzhou </p>
-		</li>
-		
-		<li class="span4">
-			<a title="arch" class="thumbnail" >
-			<img src="{{ site.github.url }}/assets/img/mosque.jpg" style="width: 300px; height: 225px;">
-			</a>
-			<p class="caption"> Mosque in my hometown </p>
-		</li>
-	</ul>
-</div>
-
-{% if page.image %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-{% endif %}
-
 <article>
   {{ content }}
 </article>
+
+
+
+<li class="span4">	
+	<img src="{{ site.github.url }}/assets/img/mask.jpg">
+	<p class="caption"> in Xi'an </p>
+</li>
+		
+<li class="span4">
+	<img src="{{ site.github.url }}/assets/img/lanzhou.jpg">
+	<p class="caption"> Lanzhou </p>
+</li>
+		
+<li class="span4">
+	<img src="{{ site.github.url }}/assets/img/mosque.jpg">
+	<p class="caption"> Mosque in my hometown </p>
+</li>
+
 
