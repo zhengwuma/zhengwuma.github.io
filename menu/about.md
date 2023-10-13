@@ -28,6 +28,8 @@ I am also interested in speech-language, such as how we perceive and comprehend 
 
 M.A. Language Studies, Corpus & Empirical Linguistics <br>
 
+with Distinction
+
 Thesis: <i> Reading Comprehension Revealed by Behavioral, Neural, and Computational Models </i> 
 
 <b> Xi'an Jiaotong University</b><br />
