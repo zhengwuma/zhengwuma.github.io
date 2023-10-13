@@ -5,7 +5,6 @@ permalink: /about
 image: night.jpg
 ---
 
-
 This is Zhengwu Ma, she/her.&ensp;马正午&ensp;[dʒə̀ŋ ǔ mǎ]
 
 Currently, I am the Research Assistant in the Department of Linguistics and Translation at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). I am also the member of the [LAMB Lab](https://compneurolinglab.github.io/).
