@@ -37,7 +37,7 @@ Thesis: <i> Testing the Relationship of Lexical Complexity to the Rated Quality 
 
 <b> University of Wisconsin-Madison</b><br />
 
-Visiting International Student Program (Linguistics)
+Visiting International Student Program
 
 <br>
 
