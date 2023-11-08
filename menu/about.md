@@ -7,7 +7,7 @@ image: night.jpg
 
 This is Zhengwu Ma, she/her.&ensp;马正午&ensp;[dʒə̀ŋ ǔ mǎ]
 
-Currently, I am the Research Assistant in the Department of Linguistics and Translation at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). I am also the member of the [LAMB Lab](https://compneurolinglab.github.io/).
+Currently, I am a Research Assistant in the Department of Linguistics and Translation at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). I am also a member of the [LAMB Lab](https://compneurolinglab.github.io/).
 
 Prior to that, I got my B.A. in English, Linguistics Specialization, from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
 
@@ -15,9 +15,7 @@ Prior to that, I got my B.A. in English, Linguistics Specialization, from [Xi'an
 
 ## Research Interest
 
-Now I am focusing on studying language comprehension using quantitative approaches and computational models to understand how the human brain processes and computes language information. It is also the topic of my master's project.  
-
-I am also interested in speech-language, such as how we perceive and comprehend sounds signals. I did several works on the spoken language machine assessment during the undergraduate phase.
+Now I am focusing on studying language comprehension (both speech and reading) using quantitative approaches and computational models to understand how the human brain processes and computes language information. And what is the mechanism difference between human brains and language models during language comprehension? It is also the topic of my master's project. I am also intrigued by the interplay between vision and language, specifically exploring the concept of whether our cognitive processes involve the creation of mental imagery to represent lexical information (just an intuitive idea).
 
 <br>
 
