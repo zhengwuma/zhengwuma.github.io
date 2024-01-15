@@ -53,4 +53,4 @@ Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complex
  
 ## Fun fact about me 🥳
 
-My Chinese first name "Zhengwu" means "midday" in English, which is also my birth time.  
+My Chinese first name "Zhengwu" means "high noon" in English, which is also my birth time.  
