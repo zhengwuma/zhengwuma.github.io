@@ -3,8 +3,6 @@ layout: page
 title: Welcome!
 permalink: /about
 ---
-<br>
-
 This is Zhengwu Ma, she/her.&ensp;马正午&ensp;[dʒə̀ŋ ǔ mǎ]
 
 Currently, I am a Research Assistant at [LAMB Lab](https://compneurolinglab.github.io/), [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
