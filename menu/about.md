@@ -9,8 +9,6 @@ Currently, I am a Research Assistant at [LAMB Lab](https://compneurolinglab.gith
 
 Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 
-<br>
-
 ## Education
 
 <h4> City University of Hong Kong </h4>
@@ -29,8 +27,6 @@ Now I am focusing on applying computational models to understand how the human b
 
   Visiting International Student Program
 
-<br>
-
 ## Language
 
 Mandarin Chinese (native), English, Spanish, Italian
@@ -39,8 +35,6 @@ Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting
 
 Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
-<br>
- 
 ## A fun fact about me 🥳
 
 My Chinese first name "Zhengwu" means "high noon" in English, which is also my birth time.  
