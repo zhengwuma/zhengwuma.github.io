@@ -15,7 +15,7 @@ Prior to that, I got my B.A. in English, Linguistics Specialization, from [Xi'an
 
 ## Research Interest
 
-Now I am focusing on studying language comprehension (both speech and reading) using quantitative approaches and computational models to understand how the human brain processes and computes language information. And what is the mechanism difference between human brains and language models during language comprehension? It is also the topic of my master's project. I am also intrigued by the interplay between vision and language, specifically exploring the concept of whether our cognitive processes involve the creation of mental imagery to represent lexical information (just an intuitive idea).
+Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 
 <br>
 
