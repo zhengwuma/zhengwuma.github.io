@@ -2,7 +2,6 @@
 layout: page
 title: Welcome!
 permalink: /about
-image: night.jpg
 ---
 <br>
 
