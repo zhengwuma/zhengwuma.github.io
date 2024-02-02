@@ -2,13 +2,12 @@
 layout: default
 ---
 
-<div class="posts-container">
-  <h1>
-    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-  </h1>
-  {% if post.image %}
-    <div class="thumbnail-container">
-      <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
-    </div>
-  {% endif %}
-</div>
+<h1>
+  {{ home.title }}
+</h1>
+{% if home.image %}
+  <img src="{{ site.github.url }}/assets/img/{{ home.image }}">
+{% endif %}
+<article>
+  {{ content }}
+</article>
