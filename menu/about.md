@@ -9,6 +9,7 @@ Currently, I am a Research Assistant at [LAMB Lab](https://compneurolinglab.gith
 
 Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 
+<br>
 ## Education
 
 ### City University of Hong Kong
@@ -27,6 +28,7 @@ Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of T
 
 Visiting International Student Program
 
+<br>
 ## Language
 
 Mandarin Chinese (native), English, Spanish, Italian
