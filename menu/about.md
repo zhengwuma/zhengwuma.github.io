@@ -37,6 +37,8 @@ Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting
 
 Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
+<br>
+
 ## A fun fact about me 🥳
 
 My Chinese first name "Zhengwu" means "high noon" in English, which is also my birth time.  
