@@ -15,19 +15,19 @@ Now I am focusing on applying computational models to understand how the human b
 
 ## Education
 
-<b> City University of Hong Kong </b>
+<h4> City University of Hong Kong </h4>
 
   M.A. Corpus & Empirical Linguistics, with Distinction
 
   Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
 
-<b> Xi'an Jiaotong University </b>
+<h4> Xi'an Jiaotong University </h4>
 
   B.A. English, Linguistics Specialization
 
   Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
 
-<b> University of Wisconsin-Madison </b>
+<h4> University of Wisconsin-Madison </h4>
 
   Visiting International Student Program
 
