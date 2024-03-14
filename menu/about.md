@@ -3,7 +3,7 @@ layout: page
 title: Welcome!
 permalink: /about
 ---
-Currently, I am a Research Assistant at The LAnguages, Machines & Brains Lab [(LAMB)](https://compneurolinglab.github.io/), [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
+Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab [(LAMB)](https://compneurolinglab.github.io/), [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
 
 Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 
@@ -13,19 +13,19 @@ Now I am focusing on applying computational models to understand how the human b
 
 ### City University of Hong Kong
 
-M.A. Corpus & Empirical Linguistics, with Distinction
+ M.A. Corpus & Empirical Linguistics, with Distinction
 
-Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
+ Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
 
 ### Xi'an Jiaotong University
 
-B.A. English, Linguistics Specialization
+ B.A. English, Linguistics Specialization
 
-Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
+ Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
 
 ### University of Wisconsin-Madison
 
-Visiting International Student Program
+ Visiting International Student Program
 
 <br>
 
