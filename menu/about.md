@@ -3,11 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab [(LAMB)](https://compneurolinglab.github.io/), [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
-
-Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
-
-<br>
+Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab [(LAMB)](https://compneurolinglab.github.io/), [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 
 ## Education
 
@@ -27,7 +23,6 @@ Now I am focusing on applying computational models to understand how the human b
 
 - Visiting International Student Program
 
-<br>
 
 ## Language
 
@@ -37,7 +32,6 @@ Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
 
 Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
-<br>
 
 ## A fun fact about me 🥳
 
