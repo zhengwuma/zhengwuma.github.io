@@ -19,11 +19,9 @@ I learned two-year German in grades 7 and 8, which still annoys me to say "Germa
 
 I started learning linguistics as a sophomore exchange student at the [University of Wisconsin-Madison](https://www.wisc.edu/). I believe many students have heard about the course [LINGUIS 101/301](https://guide.wisc.edu/courses/linguis/), which is also the beginning of everything for me.  
 
-After the memorable learning experience during COVID, I returned to XJTU to finish my B.A. under the supervision of [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). 
+After the memorable learning experience during COVID, I returned to XJTU to finish my B.A. under the supervision of [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). In his team, I operated the eye-tracking experiments, collected the data, learned the statistical analysis... That is the place that transformed me from the blank.
 
-In his team, I operated the eye-tracking experiments, collected the data, learned the statistical analysis... That is the place that transformed me from the blank.
-
-In 2022, I entered the City University of Hong Kong, and luckily to meet my current supervisor [Dr. Jixing Li](https://jixing-li.github.io/). She led me to taste the field of computational neurolinguistics. There is this fascinating way to study language!
+In 2022, I entered the CityU and luckily to meet my current supervisor [Dr. Jixing Li](https://jixing-li.github.io/) and I am proud to be one of the founding members of LAMB. She led me to taste the field of computational neurolinguistics.
 
 Hope you guys enjoy the visit!
 
