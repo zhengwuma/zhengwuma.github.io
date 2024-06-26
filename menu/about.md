@@ -12,19 +12,19 @@ permalink: /about
 
 ### City University of Hong Kong
 
- M.A. Corpus & Empirical Linguistics, with Distinction
+- M.A. Corpus & Empirical Linguistics, with Distinction
 
- Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
+- Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
 
 ### Xi'an Jiaotong University
 
- B.A. English, Linguistics Specialization
+- B.A. English, Linguistics Specialization
 
- Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
+- Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
 
 ### University of Wisconsin-Madison
 
- Visiting International Student Program
+- Visiting International Student Program
 
 <br>
 
