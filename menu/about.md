@@ -7,17 +7,14 @@ Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, Ci
 <br>
 
 ## Education
-### City University of Hong Kong
+**City University of Hong Kong**
 - M.A. Corpus & Empirical Linguistics, with Distinction
 - Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
-
-### Xi'an Jiaotong University
+**Xi'an Jiaotong University**
 - B.A. English, Linguistics Specialization
 - Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
-
-### University of Wisconsin-Madison
+**University of Wisconsin-Madison**
 - Visiting International Student Program
-
 
 ## Language
 
@@ -26,7 +23,6 @@ Mandarin Chinese (native), English, Spanish, Italian
 Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
 
 Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
-
 
 ## A fun fact about me 🥳
 My Chinese first name "Zhengwu" pronounced as [dʒə̀ŋ ǔ], which means "high noon" in English and it is also my birth time.  
