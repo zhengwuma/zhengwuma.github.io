@@ -8,15 +8,15 @@ Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, Ci
 
 ## Education
 
-#### City University of Hong Kong
+__City University of Hong Kong__
 - M.A. Corpus & Empirical Linguistics, with Distinction
 - Thesis: *Reading Comprehension Revealed by Behavioral, Neural, and Computational Models*
 
-#### Xi'an Jiaotong University
+__Xi'an Jiaotong University__
 - B.A. English, Linguistics Specialization
 - Thesis: *Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives*
 
-#### University of Wisconsin-Madison
+__University of Wisconsin-Madison__
 - Visiting International Student Program
 
 ## Language
