@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Something about my learning"
-author: "Zhengwu Ma"
+title: Something about my learning
 image: me.jpg
 permalink: /learning
 ---
