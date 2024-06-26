@@ -34,7 +34,7 @@ Now I am focusing on applying computational models to understand how the human b
 
 Mandarin Chinese (native), English, Spanish, Italian
 
-Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting
+Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
 
 Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
