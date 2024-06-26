@@ -13,6 +13,5 @@ Momenian, M., **Ma, Z.**, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., 
 
 **Ma Z.** (2023). Testing the relationship of lexical complexity to the rated quality of TEM-4 oral narratives. Oral presented at the Pacific Second Language Research Forum (PacSLRF), Bangkok, Thailand, July 26-27, 2023.
 
-<br>
 ## Something about my learning
 You can find my linguistics learning experience <a href="https://zhengwuma.github.io/learning.html">here</a>.
