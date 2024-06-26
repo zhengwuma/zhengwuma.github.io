@@ -19,7 +19,6 @@ social:
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/zhengwu-ma/'}
 - {icon: 'envelope',   link: 'mailto:zhengwuma2-c@my.cityu.edu.hk'}
 
-# - {icon: 'rss-square', link: '/rss-feed.xml'}
 # Customize site text
 sharing_button_prompt: 'Feel free to share!'
 related_posts: 'You may also enjoy:'
