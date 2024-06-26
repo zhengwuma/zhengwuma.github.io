@@ -5,7 +5,7 @@ permalink: /about
 Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab [(LAMB)](https://compneurolinglab.github.io/), [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from [Xi'an Jiaotong University](http://www.xjtu.edu.cn), supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp).
 
 Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
-
+<br>
 
 ## Education
 
