@@ -16,10 +16,10 @@ __University of Wisconsin-Madison__ <br>
 Visiting International Student<br>
 
 ## Research experiences
-__LAnguages, Machines, and Brains Lab, CityU__ <br><br>
+__LAnguages, Machines, and Brains Lab, CityU__ <br>
 Research Assistant in Computational Neurolinguistics<br>
 Advisor: Dr. Jixing Li<br><br>
-__Language & Cognitive Neuroscience Lab, XJTU__
+__Language & Cognitive Neuroscience Lab, XJTU__ <br>
 Undergraduate Research Assistant<br>
 Advisor: Prof. Xiaopeng Zhang<br><br>
 __iFLYTEK, Silk Road Headquarter__ <br>
