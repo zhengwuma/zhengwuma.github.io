@@ -7,16 +7,16 @@ permalink: /about
 
 ## Education
 ### 🇭🇰 City University of Hong Kong
-2024-, Ph.D. Linguistics
+2024- Ph.D. Linguistics
 
 2022-2023, M.A. Corpus & Empirical Linguistics, with Distinction
 
-Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
+          Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
 
 ### 🇨🇳 Xi'an Jiaotong University
 2018-2022, B.A. English, Linguistics Specialization
 
-Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
+          Thesis: _Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives_
 
 ### 🇺🇸 University of Wisconsin-Madison
 2020, Visiting International Student
