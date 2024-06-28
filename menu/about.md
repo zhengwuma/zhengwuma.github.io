@@ -6,6 +6,7 @@ permalink: /about
 > Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, CityU, supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from XJTU, supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.<br><br>
 
 ## Education
+(__________________________)
 ### 🇭🇰 City University of Hong Kong
 - incoming __Ph.D.__ student in Linguistics
 - __M.A.__ in Corpus & Empirical Linguistics, with Distinction
@@ -19,6 +20,7 @@ permalink: /about
 - Visiting International Student
 
 ## Research experiences
+(__________________________)
 ### LAnguages, Machines, and Brains Lab, CityU
 - __Research Assistant__ in Computational Neurolinguistics
 - Advisor: Dr. Jixing Li
@@ -31,9 +33,11 @@ permalink: /about
 - __Intern__, Dept. of A.I. Resources
 
 ## Language
+(__________________________)
 - Mandarin Chinese (native), English, Spanish, Italian
 - Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
 - Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
 ## A fun fact about me 🥳
+(__________________________)
 My Chinese first name "Zhengwu" pronounced as [dʒə̀ŋ ǔ], which means "high noon" in English and it is also my birth time.  
