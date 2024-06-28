@@ -7,11 +7,11 @@ permalink: /about
 
 ## Education
 ### 🇭🇰 City University of Hong Kong
-2024 - &nbsp;&nbsp;__Ph.D.__ student in Linguistics
+2024 - &nbsp;&nbsp;&nbsp;&nbsp;__Ph.D.__ student in Linguistics
 
-2022 - 2023 __M.A.__ in Corpus & Empirical Linguistics, with Distinction
+2022 - 2023 &nbsp;&nbsp; __M.A.__ in Corpus & Empirical Linguistics, with Distinction
 
-&nbsp;&nbsp Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
+&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
 
 ### 🇨🇳 Xi'an Jiaotong University
 - __B.A.__ in English, Linguistics Specialization
