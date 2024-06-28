@@ -5,7 +5,7 @@ permalink: /research
 ---
 
 ## Publications
-Momenian, M., **Ma, Z.**, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (in revision). Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantonese._
+Momenian, M., **Ma, Z.**, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (in revision). Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantonese.
 <br><br>
 ## Conference Presentations
 **Ma Z.**, Wang C. & Li J. (2023). Syntactic information drives language models’ alignment with human comprehension processes. _Oral presented at the Architectures and Mechanisms for Language Processing (AMLaP Asia), Hong Kong, December 1-3, 2023._
