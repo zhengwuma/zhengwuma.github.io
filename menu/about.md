@@ -8,27 +8,24 @@ permalink: /about
 
 ## Education
 🇭🇰 __City University of Hong Kong__
-
-M.A. Corpus & Empirical Linguistics, with Distinction
-
-Thesis: *Reading Comprehension Revealed by Behavioral, Neural, and Computational Models*
+- M.A. Corpus & Empirical Linguistics, with Distinction
+- Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
 
 🇨🇳 __Xi'an Jiaotong University__
-
-B.A. English, Linguistics Specialization
-
-Thesis: *Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives*
+- B.A. English, Linguistics Specialization
+- Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
 
 🇺🇸 __University of Wisconsin-Madison__
-
-Visiting International Student
+- Visiting International Student
 
 ## Research experiences
 __LAnguages, Machines, and Brains Lab, CityU__
-- Research Assistant in Computational Neurolinguistics, Advisor: Dr. Jixing Li
+- Research Assistant in Computational Neurolinguistics
+- Advisor: Dr. Jixing Li
 
 __Language & Cognitive Neuroscience Lab, XJTU__
-- Undergraduate Research Assistant, Advisor: Prof. Xiaopeng Zhang
+- Undergraduate Research Assistant
+- Advisor: Prof. Xiaopeng Zhang
 
 __iFLYTEK, Silk Road Headquarter__
 - Intern, Dept. of A.I. Resources
