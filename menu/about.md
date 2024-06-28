@@ -7,9 +7,9 @@ permalink: /about
 
 ## Education
 ### 🇭🇰 City University of Hong Kong
-- __Ph.D.__ student in Linguistics
-- __M.A.__ in Corpus & Empirical Linguistics, with Distinction
-- Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
+2024 - &nbsp;&nbsp;__Ph.D.__ student in Linguistics
+2022 - 2023 __M.A.__ in Corpus & Empirical Linguistics, with Distinction
+&nbsp;&nbsp Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
 
 ### 🇨🇳 Xi'an Jiaotong University
 - __B.A.__ in English, Linguistics Specialization
@@ -22,9 +22,11 @@ permalink: /about
 ### LAnguages, Machines, and Brains Lab, CityU
 - __Research Assistant__ in Computational Neurolinguistics
 - Advisor: Dr. Jixing Li
+
 ### Language & Cognitive Neuroscience Lab, XJTU
 - __Undergraduate Research Assistant__
 - Advisor: Prof. Xiaopeng Zhang
+
 ### iFLYTEK, Silk Road Headquarter
 - __Intern__, Dept. of A.I. Resources
 
