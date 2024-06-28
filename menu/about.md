@@ -10,10 +10,12 @@ permalink: /about
 2024 - ,   __Ph.D.__ student in Linguistics
 
 2022-2023, __M.A.__ in Corpus & Empirical Linguistics, with Distinction
+
            - Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
 
 ### 🇨🇳 Xi'an Jiaotong University
 2018-2022, __B.A.__ in English, Linguistics Specialization
+
            - Thesis: _Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives_
 
 ### 🇺🇸 University of Wisconsin-Madison
