@@ -19,13 +19,13 @@ permalink: /about
 - Visiting International Student Program
 
 ## Research experiences
-LAnguages, Machines, and Brains Lab, CityU
+__LAnguages, Machines, and Brains Lab, CityU__
 - Research Assistant in Computational Neurolinguistics, Advisor: Dr. Jixing Li
 
-Language & Cognitive Neuroscience Lab, XJTU
+__Language & Cognitive Neuroscience Lab, XJTU__
 - Undergraduate Research Assistant, Advisor: Prof. Xiaopeng Zhang
 
-iFLYTEK, Silk Road Headquarter
+__iFLYTEK, Silk Road Headquarter__
 - Intern, Dept. of A.I. Resources
 
 ## Language
