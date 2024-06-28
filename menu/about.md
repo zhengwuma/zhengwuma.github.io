@@ -25,17 +25,21 @@ ______________________________
 ### LAnguages, Machines, and Brains Lab, CityU
 - __Research Assistant__ in Computational Neurolinguistics
 - Advisor: Dr. Jixing Li
+
 ### Language & Cognitive Neuroscience Lab, XJTU
 - __Undergraduate Research Assistant__
 - Advisor: Prof. Xiaopeng Zhang
+
 ### iFLYTEK, Silk Road Headquarter
 - __Intern__, Dept. of A.I. Resources
 
 ______________________________
 ## Language
-- Mandarin Chinese (native), English, Spanish, Italian
-- Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
-- Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
+Mandarin Chinese (native), English, Spanish, Italian
+
+Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
+
+Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
 ______________________________
 ## A fun fact about me 🥳
