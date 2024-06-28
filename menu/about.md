@@ -6,16 +6,14 @@ permalink: /about
 > Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, CityU, supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from XJTU, supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 
 ## Education
-#### City University of Hong Kong
+#### City University of Hong Kong <br>
 M.A. Corpus & Empirical Linguistics, with Distinction<br>
-Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models
-
-#### Xi'an Jiaotong University
+Thesis: Reading Comprehension Revealed by Behavioral, Neural, and Computational Models<br>
+#### Xi'an Jiaotong University<br>
 B.A. English, Linguistics Specialization<br>
-Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives
-
-#### University of Wisconsin-Madison
-Visiting International Student
+Thesis: Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives<br>
+#### University of Wisconsin-Madison<br>
+Visiting International Student<br>
 
 ## Research experiences
 #### LAnguages, Machines, and Brains Lab, CityU
