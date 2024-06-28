@@ -27,9 +27,9 @@ permalink: /about
 - __Intern__, Dept. of A.I. Resources
 
 ## Language
-Mandarin Chinese (native), English, Spanish, Italian
-Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
-Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
+- Mandarin Chinese (native), English, Spanish, Italian
+- Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
+- Linguistics Tools: NLTK, Praat, Stanford Parser, TAALES, TAALED, Lexical Complexity Analyzer, LancsBox, AntConc...
 
 ## A fun fact about me 🥳
 My Chinese first name "Zhengwu" pronounced as [dʒə̀ŋ ǔ], which means "high noon" in English and it is also my birth time.  
