@@ -7,7 +7,7 @@ permalink: /about
 
 ## Education
 ### 🇭🇰 City University of Hong Kong
-- __Ph.D.__ student in Linguistics
+- incoming __Ph.D.__ student in Linguistics
 - __M.A.__ in Corpus & Empirical Linguistics, with Distinction
 - Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
 
