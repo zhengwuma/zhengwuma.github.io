@@ -9,12 +9,12 @@ Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, Ci
 ______________________________
 ## Education
 ### 🇭🇰 City University of Hong Kong
-- incoming __Ph.D.__ student in Linguistics
-- __M.A.__ in Corpus & Empirical Linguistics, with Distinction
+- incoming Ph.D. student in Linguistics
+- M.A. in Corpus & Empirical Linguistics, with Distinction
 - Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
 
 ### 🇨🇳 Xi'an Jiaotong University
-- __B.A.__ in English, Linguistics Specialization
+-  B.A. in English, Linguistics Specialization
 - Thesis: _Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives_
 
 ### 🇺🇸 University of Wisconsin-Madison
@@ -23,15 +23,15 @@ ______________________________
 ______________________________
 ## Research experiences
 ### LAnguages, Machines, and Brains Lab, CityU
-- __Research Assistant__ in Computational Neurolinguistics
+-  Research Assistant in Computational Neurolinguistics
 - Advisor: Dr. Jixing Li
 
 ### Language & Cognitive Neuroscience Lab, XJTU
-- __Undergraduate Research Assistant__
+-  Undergraduate Research Assistant
 - Advisor: Prof. Xiaopeng Zhang
 
 ### iFLYTEK, Silk Road Headquarter
-- __Intern__, Dept. of A.I. Resources
+- Intern, Dept. of A.I. Resources
 
 ______________________________
 ## Language
