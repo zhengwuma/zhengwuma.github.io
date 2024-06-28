@@ -9,7 +9,7 @@ permalink: /about
 ### 🇭🇰 City University of Hong Kong
 - 2024- Ph.D. Linguistics
 - 2022-2023, M.A. Corpus & Empirical Linguistics, with Distinction
-          Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
+-           Thesis: _Reading Comprehension Revealed by Behavioral, Neural, and Computational Models_
 ### 🇨🇳 Xi'an Jiaotong University
 - 2018-2022, B.A. English, Linguistics Specialization
           Thesis: _Testing the Relationship of Lexical Complexity to the Rated Quality of TEM-4 Oral Narratives_
