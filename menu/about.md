@@ -25,7 +25,8 @@ permalink: /about
 - Language & Cognitive Neuroscience Lab, XJTU
   - Undergraduate Research Assistant, Advisor: Prof. Xiaopeng Zhang
 
-- iFLYTEK, Silk Road Headquarter, Dept. of A.I. Resources
+- iFLYTEK, Silk Road Headquarter
+  - Intern, Dept. of A.I. Resources
 
 ## Language
 - Mandarin Chinese (native), English, Spanish, Italian
