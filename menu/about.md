@@ -5,6 +5,7 @@ permalink: /about
 ---
 Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, CityU, supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from XJTU, supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 <br><br>
+
 ## Education
 ### 🇭🇰 City University of Hong Kong
 - incoming Ph.D. student in Linguistics
@@ -18,6 +19,7 @@ Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, Ci
 ### 🇺🇸 University of Wisconsin-Madison
 - Visiting International Student
 <br><br>
+
 ## Research experiences
 ### LAnguages, Machines, and Brains Lab, CityU
 -  Research Assistant in Computational Neurolinguistics
@@ -30,6 +32,7 @@ Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, Ci
 ### iFLYTEK, Silk Road Headquarter
 - Intern, Dept. of A.I. Resources
 <br><br>
+
 ## Language
 Mandarin Chinese (native), English, Spanish, Italian
 
