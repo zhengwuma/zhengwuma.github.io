@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, CityU, supervised by [Dr. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from XJTU, supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
+Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, CityU, supervised by [Prof. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from XJTU, supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 <br><br>
 
 ## Education
@@ -23,7 +23,7 @@ Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, Ci
 ## Research experiences
 ### LAnguages, Machines, and Brains Lab, CityU
 -  Research Assistant in Computational Neurolinguistics
-- Advisor: Dr. Jixing Li
+- Advisor: Prof. Jixing Li
 
 ### Language & Cognitive Neuroscience Lab, XJTU
 -  Undergraduate Research Assistant
