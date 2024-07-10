@@ -30,7 +30,7 @@ Currently, I am a Research Assistant at the LAnguages, Machines & Brains Lab, Ci
 - Advisor: Prof. Xiaopeng Zhang
 
 ### iFLYTEK, Silk Road Headquarter
-- ASR Intern, Dept. of A.I. Resources
+- ASR Intern
 <br><br>
 
 ## Language
