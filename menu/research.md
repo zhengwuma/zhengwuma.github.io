@@ -10,7 +10,7 @@ Momenian, M., **Ma, Z.**, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., 
 Gao, C., **Ma Z.**, Chen J., Li, P., Huang, S. & Li, J. (under review). Instruction-following misaligns with natural language comprehension in humans.
 <br><br>
 ## Conference Presentations
-**Ma Z.** & Li J. (2024). Modeling the trajectory of language processing in neural state space. Poster at the 16th Annual Society for the Neuobiology of Language Conference (SNL), Brisbane, Australia, October 24-26, 2024.
+**Ma Z.** & Li J. (2024). Modeling the trajectory of language processing in neural state space. Poster at the 16th Annual Society for the Neurobiology of Language Conference (SNL), Brisbane, Australia, October 24-26, 2024.
 
 **Ma Z.**, Wang C. & Li J. (2023). Syntactic information drives language models’ alignment with human comprehension processes. Oral presented at the Architectures and Mechanisms for Language Processing (AMLaP Asia), Hong Kong, December 1-3, 2023.
 
