@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-I am the 1st-year PhD student at the LAnguages, Machines & Brains Lab, CityU, supervised by [Prof. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from XJTU, supervised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). Now I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
+I am the 1st-year PhD student at the LAnguages, Machines & Brains Lab, CityU, advised by [Prof. Jixing Li](https://jixing-li.github.io/). Before that, I got my B.A. in English from XJTU, advised by [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). I am focusing on applying computational models to understand how the human brain represents and computes semantic information during language comprehension.
 <br><br>
 
 ## Education
