@@ -5,7 +5,7 @@ permalink: /research
 ---
 
 ## Publications
-Momenian, M., **Ma, Z.**, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (in revision). Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantonese.
+Momenian, M., <span style="color: #f3b04f;">**Ma, Z.**</span>, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (in revision). Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantonese.
 
 Gao, C., **Ma Z.**, Chen J., Li, P., Huang, S. & Li, J. (under review). Instruction-following misaligns with natural language comprehension in humans.
 <br><br>
