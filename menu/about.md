@@ -30,7 +30,7 @@ I am the 1st-year PhD student at the LAnguages, Machines & Brains Lab, CityU, ad
 - Advisor: Prof. Xiaopeng Zhang
 
 ### iFLYTEK, Silk Road Headquarter
-- English ASR Intern
+- English Automatic Speech Recognition Intern
 <br><br>
 
 ## Language
