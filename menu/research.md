@@ -5,7 +5,7 @@ permalink: /research
 ---
 
 ## Publications
-Momenian, M., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (in press). Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantonese. _Scientific Data._ <span style="color:#d8d6d0;"><a href="https://openneuro.org/datasets/ds004718/versions/1.1.0">[OpenNeuro]</a></span> <span style="color:#d8d6d0;"><a href="https://www.biorxiv.org/content/10.1101/2024.04.24.590842v1">[bioRxiv]</a></span>
+Momenian, M., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (2024). Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantonese. _Scientific Data._ <a href="https://openneuro.org/datasets/ds004718/versions/1.1.0">[OpenNeuro]</a> <a href="https://www.nature.com/articles/s41597-024-03745-8">[doi]</a>
 
 Gao, C., <span style="color: #f39c12;"><strong>Ma Z.</strong></span>, Chen J., Li, P., Huang, S. & Li, J. (under review). Instruction-following misaligns with natural language comprehension in humans. <span style="color:#d8d6d0;"><a href="https://www.biorxiv.org/content/10.1101/2024.08.15.608196v1">[bioRxiv]</a></span>
 <br><br>
