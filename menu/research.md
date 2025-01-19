@@ -5,9 +5,11 @@ permalink: /research
 ---
 
 ## Publications
-Momenian, M., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (2024). Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantonese. _Scientific Data._ <a href="https://openneuro.org/datasets/ds004718/versions/1.1.0">[OpenNeuro]</a> <a href="https://www.nature.com/articles/s41597-024-03745-8">[DOI]</a>
+Wang, Q., Zhou, Q., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wang, N., Zhang, T., Fu, Y. & Li, J. (under review). Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG dataset. <a href="https://openneuro.org/datasets/ds005345/versions/1.0.0">[OpenNeuro]</a>
 
-Gao, C., <span style="color: #f39c12;"><strong>Ma Z.</strong></span>, Chen J., Li, P., Huang, S. & Li, J. (under review). Instruction-following misaligns with natural language comprehension in humans. <span style="color:#d8d6d0;"><a href="https://www.biorxiv.org/content/10.1101/2024.08.15.608196v1">[bioRxiv]</a></span>
+Gao, C., <span style="color: #f39c12;"><strong>Ma Z.</strong></span>, Chen J., Li, P., Huang, S. & Li, J. (in revision). Instruction-following misaligns with natural language comprehension in humans. <span style="color:#d8d6d0;"><a href="https://www.biorxiv.org/content/10.1101/2024.08.15.608196v1">[bioRxiv]</a></span>
+
+Momenian, M., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (2024). Le Petit Prince Hong Kong: Naturalistic fMRI and EEG dataset from older Cantonese. _Scientific Data._ <a href="https://openneuro.org/datasets/ds004718/versions/1.1.0">[OpenNeuro]</a> <a href="https://www.nature.com/articles/s41597-024-03745-8">[DOI]</a>
 <br><br>
 ## Conference Presentations
 <span style="color: #f39c12;"><strong>Ma Z.</strong></span> & Li J. (2024). Modeling the trajectory of language processing in neural state space. Poster at the 16th Annual Society for the Neurobiology of Language Conference (SNL), Brisbane, Australia, October 24-26, 2024.
