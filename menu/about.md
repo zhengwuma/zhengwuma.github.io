@@ -24,9 +24,11 @@ I am the 1st-year PhD student at the LAnguages, Machines & Brains Lab, CityU, ad
 ### LAnguages, Machines, and Brains Lab, CityU
 -  Research Assistant in Computational Neurolinguistics
 - Advisor: Prof. Jixing Li
+
 ### Language & Cognitive Neuroscience Lab, XJTU
 -  Undergraduate Research Assistant
 - Advisor: Prof. Xiaopeng Zhang
+
 ### iFLYTEK, Silk Road Headquarter
 - English Automatic Speech Recognition Intern
 <br><br>
