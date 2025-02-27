@@ -5,7 +5,7 @@ permalink: /research
 ---
 
 ## Publications
-Wang, Q., Zhou, Q., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wang, N., Zhang, T., Fu, Y. & Li, J. (under review). Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG dataset. <a href="https://openneuro.org/datasets/ds005345/versions/1.0.0">[OpenNeuro]</a>
+Wang, Q., Zhou, Q., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wang, N., Zhang, T., Fu, Y. & Li, J. (under review). Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG dataset. <a href="https://openneuro.org/datasets/ds005345/versions/1.0.0">[OpenNeuro]</a> <a href="https://doi.org/10.1101/2025.02.26.640265">[bioRxiv]</a>
 
 Gao, C., <span style="color: #f39c12;"><strong>Ma Z.</strong></span>, Chen J., Li, P., Huang, S. & Li, J. (in revision). Instruction-following misaligns with natural language comprehension in humans. <span style="color:#d8d6d0;"><a href="https://www.biorxiv.org/content/10.1101/2024.08.15.608196v1">[bioRxiv]</a></span>
 
