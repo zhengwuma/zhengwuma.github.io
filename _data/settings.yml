@@ -14,9 +14,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github',     link: 'https://github.com/zhengwuma'}
-- {icon: 'instagram',  link: 'https://www.instagram.com/zhengwu_ma/'}
+- {icon: 'google-scholar',  link: 'https://scholar.google.com/citations?user=AFkl-oQAAAAJ&hl=en'}
 - {icon: 'twitter',    link: 'https://twitter.com/zhengwuma'}
-- {icon: 'linkedin',   link: 'https://www.linkedin.com/in/zhengwu-ma/'}
+- {icon: 'instagram',   link: 'https://www.instagram.com/zhengwu_ma/'}
 - {icon: 'envelope',   link: 'mailto:zhengwuma2-c@my.cityu.edu.hk'}
 
 # Customize site text
