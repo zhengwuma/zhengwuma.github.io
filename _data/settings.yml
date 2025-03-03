@@ -13,12 +13,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope',   link: 'mailto:zhengwuma2-c@my.cityu.edu.hk'}
-- {icon: 'graduation-cap',  link: 'https://scholar.google.com/citations?user=AFkl-oQAAAAJ&hl=en&oi=ao'}
 - {icon: 'github',     link: 'https://github.com/zhengwuma'}
 - {icon: 'twitter',    link: 'https://twitter.com/zhengwuma'}
 - {icon: 'instagram',   link: 'https://www.instagram.com/zhengwu_ma/'}
-
+- {icon: 'graduation-cap',  link: 'https://scholar.google.com/citations?user=AFkl-oQAAAAJ&hl=en&oi=ao'}
+- {icon: 'envelope',   link: 'mailto:zhengwuma2-c@my.cityu.edu.hk'}
 
 # Customize site text
 sharing_button_prompt: 'Feel free to share!'
