@@ -17,7 +17,7 @@ social:
 - {icon: 'twitter',    link: 'https://twitter.com/zhengwuma'}
 - {icon: 'instagram',   link: 'https://www.instagram.com/zhengwu_ma/'}
 - {icon: 'graduation-cap',  link: 'https://scholar.google.com/citations?user=AFkl-oQAAAAJ&hl=en&oi=ao'}
-- {icon: 'envelope',   link: 'mailto:zhengwuma2-c@my.cityu.edu.hk'}
+- {icon: 'envelope',   link: 'mailto:zhengwu.ma@my.cityu.edu.hk'}
 
 # Customize site text
 sharing_button_prompt: 'Feel free to share!'
