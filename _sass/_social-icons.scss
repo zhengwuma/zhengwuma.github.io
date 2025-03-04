@@ -42,21 +42,6 @@
   @include social-media-icon($linkedin-color, $icon-transition-time);
 }
 
-.fa-facebook {
-  padding: 5px;
-  @include social-media-icon($facebook-color, $icon-transition-time);
-}
-
-.fa-pinterest {
-  padding: 5px;
-  @include social-media-icon($pinterest-color, $icon-transition-time);
-}
-
-.fa-medium {
-  padding: 5px;
-  @include social-media-icon($medium-color, $icon-transition-time);
-}
-
 .fa-codepen {
   padding: 5px;
   @include social-media-icon($codepen-color, $icon-transition-time);
