@@ -9,7 +9,7 @@ Li, J., Wang, Q., Wang, Y., Wang, C., <span style="color: #f39c12;"><strong>Ma, 
 
 Gao, C., <span style="color: #f39c12;"><strong>Ma Z.</strong></span>, Chen J., Li, P., Huang, S. & Li, J. (in revision). Scaling, but not instruction tuning, increases large language models’ alignment with language processing in the human brain. <span style="color:#d8d6d0;"><a href="https://www.biorxiv.org/content/10.1101/2024.08.15.608196v3">[bioRxiv]</a></span>
 
-Wang, Q., Zhou, Q., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wang, N., Zhang, T., Fu, Y. & Li, J. (2025). Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG dataset. _Scientific Data. 12,_ 1. <a href="https://openneuro.org/datasets/ds005345/versions/1.0.0">[OpenNeuro]</a> <a href="[https://doi:10.1038/s41597-025-05158-7]">[DOI]</a>
+Wang, Q., Zhou, Q., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wang, N., Zhang, T., Fu, Y. & Li, J. (2025). Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG dataset. _Scientific Data. 12,_ 1. <a href="https://openneuro.org/datasets/ds005345/versions/1.0.0">[OpenNeuro]</a> <a href="https://doi:10.1038/s41597-025-05158-7">[DOI]</a>
 
 Momenian, M., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (2024). Le Petit Prince Hong Kong (LPPHK): Naturalistic fMRI and EEG dataset from older Cantonese. _Scientific Data. 11,_ 992. <a href="https://openneuro.org/datasets/ds004718/versions/1.1.0">[OpenNeuro]</a> <a href="https://www.nature.com/articles/s41597-024-03745-8">[DOI]</a>
 <br><br>
