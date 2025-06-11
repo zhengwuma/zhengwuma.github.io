@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/0ff87fde-c14f-40a0-aeb0-e376a10796e7)---
 layout: page
 title: Research
 permalink: /research
@@ -14,7 +14,12 @@ Wang, Q., Zhou, Q., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>
 Momenian, M., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wu, S., Wang, C., Vaghefi, M., Hale, J., Brennan, J., Meyer, L, & Li, J. (2024). Le Petit Prince Hong Kong (LPPHK): Naturalistic fMRI and EEG dataset from older Cantonese. _Scientific Data. 11,_ 992. <a href="https://openneuro.org/datasets/ds004718/versions/1.1.0">[OpenNeuro]</a> <a href="https://www.nature.com/articles/s41597-024-03745-8">[DOI]</a>
 <br><br>
 
+## Book Chapter
+Li, J., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, & Wang, C. (under review). MRI datasets for language processing. in Nesi, H., and Milin, P. (Eds.). International Encyclopedia of Language and Linguistics, 3rd Edition. Elsevier.
+
 ## Conference Presentations
+<span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Gao, Q., Wang, N., & Li J. (2025). Neural tracking of semantic and rhythmic information under temporal compression. Poster at the 17th Annual Society for the Neurobiology of Language Conference (SNL), Washington, D.C., USA, September 12-14, 2025.
+
 <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wang, N., & Li J. (2025). Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG Dataset. Poster at the International Workshop on Cross-linguistic Databases and Norms, Shanghai, China, May 31-June 1, 2025.
 
 <span style="color: #f39c12;"><strong>Ma Z.</strong></span> & Li J. (2024). Modeling the trajectory of language processing in neural state space. Poster at the 16th Annual Society for the Neurobiology of Language Conference (SNL), Brisbane, Australia, October 24-26, 2024.
