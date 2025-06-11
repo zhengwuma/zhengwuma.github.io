@@ -1,9 +1,7 @@
-![image](https://github.com/user-attachments/assets/0ff87fde-c14f-40a0-aeb0-e376a10796e7)---
 layout: page
 title: Research
 permalink: /research
 ---
-
 ## Publications
 Li, J., Wang, Q., Wang, Y., Wang, C., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Xu, R., Feng, S., Jiang, X. & Meng, Z. (in revision). BABA: fMRI and MEG recordings during viewing of a multi-speaker TV show. <a href="https://openneuro.org/datasets/ds005346">[OpenNeuro]</a> <a href="https://www.biorxiv.org/content/10.1101/2025.04.03.646958v1">[bioRxiv]</a>
 
@@ -16,6 +14,7 @@ Momenian, M., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wu, 
 
 ## Book Chapter
 Li, J., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, & Wang, C. (under review). MRI datasets for language processing. in Nesi, H., and Milin, P. (Eds.). International Encyclopedia of Language and Linguistics, 3rd Edition. Elsevier.
+<br><br>
 
 ## Conference Presentations
 <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Gao, Q., Wang, N., & Li J. (2025). Neural tracking of semantic and rhythmic information under temporal compression. Poster at the 17th Annual Society for the Neurobiology of Language Conference (SNL), Washington, D.C., USA, September 12-14, 2025.
