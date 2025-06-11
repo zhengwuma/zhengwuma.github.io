@@ -1,7 +1,9 @@
+---
 layout: page
 title: Research
 permalink: /research
 ---
+
 ## Publications
 Li, J., Wang, Q., Wang, Y., Wang, C., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Xu, R., Feng, S., Jiang, X. & Meng, Z. (in revision). BABA: fMRI and MEG recordings during viewing of a multi-speaker TV show. <a href="https://openneuro.org/datasets/ds005346">[OpenNeuro]</a> <a href="https://www.biorxiv.org/content/10.1101/2025.04.03.646958v1">[bioRxiv]</a>
 
