@@ -17,7 +17,7 @@ I took German in 7th and 8th grade, and somehow "Deutsch" still comes to mind be
 
 After the memorable learning experience during COVID, I returned to XJTU to finish my B.A. under the supervision of [Prof. Xiaopeng Zhang](http://gr.xjtu.edu.cn/en/web/zhangxp). In his lab, I got to run eye-tracking experiments, collect data, and dive into statistical analysis. That’s really where I started to feel like a researcher—not just someone taking classes, but someone asking questions and looking for answers. In 2022, I joined CityU and was lucky enough to meet [Dr. Jixing Li](https://jixing-li.github.io/). Now I’m one of the founding members of the LAMB Lab.
 
-Another part of my language learning journey is closely tied to music. Thanks to my mom—and my three-year-old self—I started piano lessons at a very young age and kept at it for four years.  In primary school, I also studied violin and took vocal training (I’m pretty sure my mom was secretly hoping I’d end up at a music conservatory). I completed all the graded exams for a traditional Chinese instrument, [cucurbit flute](https://www.youtube.com/watch?v=QUvh4xTID5s), which is her favorite.
+Another part of my language learning journey is closely tied to music. Thanks to my mom and my three-year-old self, I started piano lessons at a very young age and kept at it for four years.  In primary school, I also studied violin and took vocal training (I’m pretty sure my mom was secretly hoping I’d end up at a music conservatory). I completed all the graded exams for a traditional Chinese instrument, [cucurbit flute](https://www.youtube.com/watch?v=QUvh4xTID5s), which is her favorite.
 
 Zhengwu
 
