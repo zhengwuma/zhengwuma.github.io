@@ -19,6 +19,8 @@ Li, J., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, & Wang, C.
 <br><br>
 
 ## Conference Presentations
+<span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Gao, Q., Wang, N., & Li J. (2025). Neural tracking of semantic and rhythmic information under temporal compression. Poster at the 18th Annual Meeting of Chinese Neuroscience Society (CNS 2025), Xi’an, China, September 25-28, 2025.
+
 <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Gao, Q., Wang, N., & Li J. (2025). Neural tracking of semantic and rhythmic information under temporal compression. Poster at the 17th Annual Society for the Neurobiology of Language Conference (SNL), Washington, D.C., USA, September 12-14, 2025.
 
 <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wang, N., & Li J. (2025). Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG Dataset. Poster at the International Workshop on Cross-linguistic Databases and Norms, Shanghai, China, May 31-June 1, 2025.
