@@ -21,11 +21,11 @@ Li, J., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, & Wang, C.
 ## Conference Presentations
 <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Gao, Q., Wang, N., & Li J. (2025). Neural tracking of semantic and rhythmic information under temporal compression. Poster at the 18th Annual Meeting of Chinese Neuroscience Society (CNS 2025), Xi’an, China, September 25-28, 2025.
 
-<span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Gao, Q., Wang, N., & Li J. (2025). Neural tracking of semantic and rhythmic information under temporal compression. Poster at the 17th Annual Society for the Neurobiology of Language Conference (SNL), Washington, D.C., USA, September 12-14, 2025.
+<span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Gao, Q., Wang, N., & Li J. (2025). Neural tracking of semantic and rhythmic information under temporal compression. Poster at Society for the Neurobiology of Language 17th Annual Meeting (SNL 2025), Washington, D.C., USA, September 12-14, 2025.
 
 <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Wang, N., & Li J. (2025). Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG Dataset. Poster at the International Workshop on Cross-linguistic Databases and Norms, Shanghai, China, May 31-June 1, 2025.
 
-<span style="color: #f39c12;"><strong>Ma Z.</strong></span> & Li J. (2024). Modeling the trajectory of language processing in neural state space. Poster at the 16th Annual Society for the Neurobiology of Language Conference (SNL), Brisbane, Australia, October 24-26, 2024.
+<span style="color: #f39c12;"><strong>Ma Z.</strong></span> & Li J. (2024). Modeling the trajectory of language processing in neural state space. Poster at Society for the Neurobiology of Language 16th Annual Meeting (SNL 2024), Brisbane, Australia, October 24-26, 2024.
 
 <span style="color: #f39c12;"><strong>Ma Z.</strong></span>, Wang C. & Li J. (2023). Syntactic information drives language models’ alignment with human comprehension processes. Oral presented at the Architectures and Mechanisms for Language Processing (AMLaP Asia), Hong Kong, December 1-3, 2023.
 
