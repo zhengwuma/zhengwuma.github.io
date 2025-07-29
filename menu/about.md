@@ -33,9 +33,8 @@ permalink: /about
 
 ## Language
 Mandarin Chinese (native), English
-
 Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
-
 <br><br>
+
 ## A fun fact about me 🥳
 My Chinese first name "Zhengwu" pronounced as [dʒə̀ŋ ǔ], which means "high noon" in English and it is also my birth time.  
