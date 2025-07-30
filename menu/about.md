@@ -33,6 +33,7 @@ permalink: /about
 
 ## Language
 Mandarin Chinese (native), English
+
 Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
 <br><br>
 
