@@ -1,7 +1,7 @@
 ---
 ---
 
-$sans-serif-font-family: "Inter";
+$sans-serif-font-family: "Kantumruy Pro";
 $code-font-family:       "Source Code Pro", monospace;
 
 $body-color:             #505050;
@@ -26,5 +26,15 @@ $linkedin-color:       #0073a4;
 $codepen-color:        black;
 $rss-color:            #ff6600;
 $graduation-cap-color: #4285F4;
+
+a {
+  text-decoration: none;
+  color: $link-color;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+  &:hover,
+  &:focus {color: darken($link-color, 20%);}
+  &:visited {color: lighten($link-color, 20%);}
+  &:active {color: $link-color;text-decoration: none;}
+}
 
 @import "-sections-dir";
