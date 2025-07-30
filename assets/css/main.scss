@@ -27,14 +27,4 @@ $codepen-color:        black;
 $rss-color:            #ff6600;
 $graduation-cap-color: #4285F4;
 
-a {
-  text-decoration: none !important;
-  color: $link-color !important;
-  transition: color 0.2s ease, text-decoration 0.2s ease;
-  &:hover,
-  &:focus {color: darken($link-color, 20%) !important;}
-  &:visited {color: lighten($link-color, 20%) !important;}
-  &:active {color: $link-color !important;text-decoration: none !important;}
-}
-
 @import "-sections-dir";
