@@ -32,8 +32,7 @@ permalink: /about
 <br><br>
 
 ## Language
-Mandarin Chinese (native), English
-
+Mandarin Chinese (native), English<br>
 Python, R, SPSS, HTML, MATLAB, LaTeX, Shell Scripting, Markdown
 <br><br>
 
