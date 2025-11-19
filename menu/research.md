@@ -5,7 +5,7 @@ permalink: /research
 ---
 
 ## Publications
-Li, J., Wang, Q., Wang, Y., Wang, C., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Xu, R., Feng, S., Jiang, X. & Meng, Z. (accepted). BABA: fMRI and MEG recordings during viewing of a multi-speaker TV show. _Scientific Data_. <a href="https://openneuro.org/datasets/ds005346">[OpenNeuro]</a> <a href="https://www.biorxiv.org/content/10.1101/2025.04.03.646958v1">[bioRxiv]</a>
+Li, J., Wang, Q., Wang, Y., Wang, C., <span style="color: #f39c12;"><strong>Ma, Z.</strong></span>, Xu, R., Feng, S., Jiang, X. & Meng, Z. (2025). Naturalistic fMRI and MEG recordings during viewing of a reality TV show. _Scientific Data_. <a href="https://openneuro.org/datasets/ds005346">[OpenNeuro]</a> <a href="https://www.nature.com/articles/s41597-025-06110-5">[DOI]</a>
 
 Gao, C., <span style="color: #f39c12;"><strong>Ma Z.</strong></span>, Chen J., Li, P., Huang, S. & Li, J. (2025). Increasing large language models’ alignment with language processing in the human brain. _Nature Computational Science._ <span style="color:#d8d6d0;"><a href="https://doi.org/10.1038/s43588-025-00863-0">[DOI]</a></span>
 
