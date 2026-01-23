@@ -1,0 +1,86 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 1.5;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    scroll-margin-top: 66px;
+  }
+}
+
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 56px;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
+
+.container {
+  max-width: $max-content-width;
+}
+
+// Profile
+.profile {
+  width:25%;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  
+  img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .profile {
+    width: 60% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 1.5rem !important;
+    float: none !important;
+    display: block;
+    
+    figure {
+      margin: 0 auto;
+      display: block;
+    }
+    
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+  
+  .float-right {
+    float: none !important;
+  }
+}
+
+// TODO: redefine content layout.
+
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// TODO: redefine publications layout.
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+// TODO: redefine projects layout.
