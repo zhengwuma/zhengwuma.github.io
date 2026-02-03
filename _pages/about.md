@@ -16,7 +16,7 @@ social: true
 
 Hi, I'm Zhengwu, a 2nd-year PhD student at the [LAnguages, Machines & Brains Lab](https://compneurolinglab.github.io/), City University of Hong Kong, supervised by [Prof. Jixing Li](https://jixing-li.github.io/). 
 
-Before moving to Hong Kong, I earned my B.A. in English from Xi'an Jiaotong University, where I completed my thesis under [Prof. Xiaopeng Zhang](https://gr.xjtu.edu.cn/zh/web/zhangxp). During undergrad, I studied at the University of Wisconsin-Madison, where I dove into linguistics. I also interned at iFLYTEK Silk Road Headquarters.
+Before moving to Hong Kong, I earned my B.A. in English from Xi'an Jiaotong University, supervised by [Prof. Xiaopeng Zhang](https://gr.xjtu.edu.cn/zh/web/zhangxp). During undergrad, I also studied at the University of Wisconsin-Madison, where I dove into linguistics. I was the intern at iFLYTEK Silk Road Headquarters.
 
 My research applies computational models to uncover how the human brain represents and computes semantic information during speech comprehension.
 
