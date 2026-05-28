@@ -13,7 +13,7 @@ nav_order: 2
 
 Huang, Y., **Ma, Z.**, & Li J. (2026). Neural encoding of syntactic movement in English but not Chinese. To be poster presented at the 9th annual conference on Cognitive Computational Neuroscience (CCN 2026), New York, USA, August 3-6, 2026.
 
-**Ma, Z.**, Huang, Y., & Li J. (2025). Non-literal meaning representation in the brain during naturalistic listening. Poster presented at the Greater Bay Platform for Experimental Research in Linguistics Meeting (PERL 2026), Hong Kong, June 5, 2026.
+**Ma, Z.**, Huang, Y., & Li J. (2025). Non-literal meaning representation in the brain during naturalistic listening. To be poster presented at the Greater Bay Platform for Experimental Research in Linguistics Meeting (PERL 2026), Hong Kong, June 5, 2026.
 
 **Ma, Z.**, Gao, Q., Wang, N., & Li J. (2025). Neural tracking of semantic and rhythmic information under temporal compression. Poster at the 18th Annual Meeting of Chinese Neuroscience Society (CNS 2025), Xi'an, China, September 25-28, 2025.
 
