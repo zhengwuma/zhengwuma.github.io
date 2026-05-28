@@ -1,4 +1,3 @@
-<img width="468" height="123" alt="image" src="https://github.com/user-attachments/assets/16bd2846-c63b-4de1-8df2-7bb82a1d7308" />---
 layout: page
 permalink: /presentations/
 title: Presentations
