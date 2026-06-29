@@ -33,11 +33,11 @@ Le Petit Prince Hong Kong (LPPHK): Naturalistic fMRI and EEG dataset from older 
 
 Traces in the brain: Neural evidence for syntactic movement in English and Chinese.
 <br>Yuhan Huang, **Zhengwu Ma**, Yuqi Jin, Beth Chan, Zheng Shen, Jackie Lai, John Hale and Jixing Li. 2026.
-<br>*Findings of the Association for Computational Linguistics: ACL 2026.*
+<br>*Findings of the Association for Computational Linguistics: ACL 2026.* <a href="https://aclanthology.org/2026.findings-acl.1027" class="badge">Paper</a>
 
 Conflicts make large reasoning models vulnerable to attacks.
 <br>Honghao Liu, Chengjin Xu, Xuhui Jiang, Cehao Yang, Shengming Yin, **Zhengwu Ma**, Lionel Ni and Jian Guo. 2026.
-<br>*Findings of the Association for Computational Linguistics: ACL 2026.*
+<br>*Findings of the Association for Computational Linguistics: ACL 2026.* <a href="https://aclanthology.org/2026.findings-acl.463" class="badge">Paper</a>
 
 Non-literal meaning representation in the brain during naturalistic listening.
 <br>**Zhengwu Ma**, Yuhan Huang, Chengcheng Wang and Jixing Li. 2026.
