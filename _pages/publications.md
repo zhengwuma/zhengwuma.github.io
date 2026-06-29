@@ -41,11 +41,11 @@ Conflicts make large reasoning models vulnerable to attacks.
 
 Non-literal meaning representation in the brain during naturalistic listening.
 <br>**Zhengwu Ma**, Yuhan Huang, Chengcheng Wang and Jixing Li. 2026.
-<br>*In Proceedings of the Society for Computation in Linguistics (SCiL 2026)*
+<br>*In Proceedings of the Society for Computation in Linguistics (SCiL 2026)* <a href="https://openpublishing.library.umass.edu/scil/article/id/4069/" class="badge">Paper</a>
 
 Do Large language models acquire phrase-based processing? Evidence from eye movements, fMRI encoding, and model-brain alignment after fine-tuning.
 <br>Xufeng Duan, **Zhengwu Ma**, Zhaoqian Yao, Jixing Li and Zhenguang Cai
-<br>*In Proceedings of the Society for Computation in Linguistics (SCiL 2026)*
+<br>*In Proceedings of the Society for Computation in Linguistics (SCiL 2026)* <a href="https://openpublishing.library.umass.edu/scil/article/id/4067/" class="badge">Paper</a>
 
 ---
 
