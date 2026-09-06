@@ -24,8 +24,8 @@ My research applies computational models to uncover how the human brain represen
 
 
 **News:**
+- 08/2026: I'm in CCN2026 @ NYC!
 - 01/2026: Proud to organize the [BIOMAG 2026 LPP Decoding Challenge](https://compneurolinglab.github.io/biomag_challenge/)
 - 09/2025: Our [scaling paper](https://www.nature.com/articles/s43588-025-00863-0) published in *Nature Computational Science*
-- 09/2025: I'm in SNL2025 @ Washington, D.C.
 
 ---
