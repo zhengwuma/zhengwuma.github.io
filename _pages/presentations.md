@@ -9,7 +9,7 @@ nav_order: 2
 
 ### Conference presentations
 
-**Ma, Z.** & Li J. (2026). LLM-derived emotion vectors predict MEG responses beyond acoustics and word embeddings. To be poster presented at the Society for the Neurobiology of Language 18th Annual Meeting (SNL 2026), Geneva, Geneva, Switzerland, September 29-October 2, 2026.
+**Ma, Z.** & Li J. (2026). LLM-derived emotion vectors predict MEG responses beyond acoustics and word embeddings. To be poster presented at the Society for the Neurobiology of Language 18th Annual Meeting (SNL 2026), Geneva, Switzerland, September 29-October 2, 2026.
 
 **Ma, Z.**, Gao, Q. & Li J. (2026). Neural representations of speech and music under temporal compression. Poster presented at the 9th annual conference on Cognitive Computational Neuroscience (CCN 2026), New York, USA, August 3-6, 2026.
 
