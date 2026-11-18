@@ -31,6 +31,14 @@ Le Petit Prince Hong Kong (LPPHK): Naturalistic fMRI and EEG dataset from older 
 
 ### Peer-reviewed Conference Papers
 
+Predicting neural responses to time-compressed speech and music using an interpretable deep neural network.
+<br>**Zhengwu Ma**, Qimiao Gao, Nan Wang and Jixing Li. 2026.
+<br>*Findings of the European Chapter of the Association for Computational Linguistics (EACL): EACL 2027.*
+
+Do VLMs align better with humans than LLMs during natural reading?
+<br>Jinzhou Wu, **Zhengwu Ma**, Jixing Li, Baoping Tang and Zitong Lu. 2026.
+<br>*Findings of the European Chapter of the Association for Computational Linguistics (EACL): EACL 2027.*
+
 Traces in the brain: Neural evidence for syntactic movement in English and Chinese.
 <br>Yuhan Huang, **Zhengwu Ma**, Yuqi Jin, Beth Chan, Zheng Shen, Jackie Lai, John Hale and Jixing Li. 2026.
 <br>*Findings of the Association for Computational Linguistics: ACL 2026.* <a href="https://aclanthology.org/2026.findings-acl.1027" class="badge">Paper</a>
