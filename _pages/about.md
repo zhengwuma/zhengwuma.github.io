@@ -23,7 +23,7 @@ My research applies computational models to uncover how the human brain represen
 :envelope: Contact me at: zhengwu.ma {at} my.cityu.edu.hk
 
 <h2>News</h2>
-<div class="news-scroll" style="max-height: 12rem; overflow-y: auto; padding-right: 0.5rem" tabindex="0" role="region" aria-label="News updates" markdown="1">
+<div class="news-scroll" style="max-height: 5rem; overflow-y: auto; padding-right: 0.5rem" tabindex="0" role="region" aria-label="News updates" markdown="1">
 
 - 09/2026: We are going to SNL2026 @ Geneva!
 - 08/2026: I'm in CCN2026 @ NYC for our music and x-bar paper!
